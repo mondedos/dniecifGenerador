@@ -1,4 +1,6 @@
-#Thu Nov 11 10:15:30 CET 2010
 eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=
+lastWarOutDir=/Volumes/UNTITLED/Desarrollos/workspace/dniecifGenerador/war
+launchConfigExternalUrlPrefix=
 warSrcDir=war
 warSrcDirIsOutput=true
